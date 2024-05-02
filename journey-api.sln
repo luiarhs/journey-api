@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "journey-api", "journey-api.csproj", "{69363B5D-52FD-4878-B812-8581D3128FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69363B5D-52FD-4878-B812-8581D3128FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69363B5D-52FD-4878-B812-8581D3128FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69363B5D-52FD-4878-B812-8581D3128FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69363B5D-52FD-4878-B812-8581D3128FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E75FA7B1-8467-4CE6-8000-FD07722AACFD}
+	EndGlobalSection
+EndGlobal
