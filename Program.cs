@@ -29,10 +29,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
-
-app.MapControllers();
-
 app.MapHealthChecks("/healthz");
 
 app.MapHealthChecks("/healthz/ready", new HealthCheckOptions
