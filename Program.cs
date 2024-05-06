@@ -45,6 +45,6 @@ app.MapGet("/trafficlights", (TrafficLightService trafficLightService) =>
 {
     return Results.Ok(trafficLightService.RetrieveLights());
 }).WithName("GetTrafficLights")
-.WithOpenApi(); ;
+.WithOpenApi();
 
 app.Run();
